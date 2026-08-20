@@ -101,9 +101,3 @@ Banking-Customer-Analytics/
               │ Insights        │
               └─────────────────┘
 ```
-
-## ⭐ If You Like This Project
-
-If you found this project useful or interesting, consider giving it a ⭐ on GitHub!
-
-**Thank you for visiting! 🚀**
